@@ -1,4 +1,4 @@
-# Hi, I'm Sabarinathan 👋
+# Sabarinathan P R 
 
 I'm a second-year Electronics and Communication Engineering student at KPRIET, Coimbatore.
 
