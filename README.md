@@ -1,6 +1,6 @@
 # Sabarinathan P R 
 
-I'm a second-year Electronics and Communication Engineering student at KPRIET, Coimbatore.
+I'm a Third-year Electronics and Communication Engineering student at KPRIET, Coimbatore.
 
 I'm interested in Embedded Systems, IoT, Industrial Automation, and I'm currently exploring Edge AI and RTOS.
 
