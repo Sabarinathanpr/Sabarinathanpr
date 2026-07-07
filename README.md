@@ -1,6 +1,6 @@
-# Sabarinathan P R 
+#HI, I'm Sabarinathan P R 
 
-I'm a Third-year Electronics and Communication Engineering student at KPRIET, Coimbatore.
+I'm a Third-Year Electronics and Communication Engineering student at KPR Institute of Engineering and Technology (KPRIET), Coimbatore.
 
 I'm interested in Embedded Systems, IoT, Industrial Automation, and I'm currently exploring Edge AI and RTOS.
 
@@ -12,9 +12,9 @@ I'm interested in Embedded Systems, IoT, Industrial Automation, and I'm currentl
 
 ## Projects
 
-- SAFE SPHERE – IoT-based smart worker safety monitoring system
+- SAFE SPHERE – IoT-Based Smart Worker Safety Monitoring System
 - Smart Soil Irrigation System using ESP32-S3
-- Smart Water Purifier Monitoring
+- Smart Water Purifier Monitoring System
 
 ## Acheivement:
 
